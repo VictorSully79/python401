@@ -17,4 +17,4 @@ Victor Sullivan and Clarissa Pamonicutt
   - arguments: value, new value
   - adds a new node with the given new value immediately after the first node that has the value specified
 
-![Challenge 6 Whiteboard](assets/Python CC6.png)
+![Challenge 6 Whiteboard](assets/python_CC6.png)
