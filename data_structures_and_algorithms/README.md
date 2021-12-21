@@ -7,4 +7,4 @@
 
 ## Challenge 6:
 20211220
-[Linked List Insertions]
+[Linked List Insertions](Python CC6.png)
