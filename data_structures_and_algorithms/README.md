@@ -9,3 +9,7 @@
 20211220
 
 [Linked List Insertions](linked_list-insertions.md)
+
+## Challenge 7:
+20211227
+
