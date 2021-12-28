@@ -8,4 +8,4 @@
 ## Challenge 6:
 20211220
 
-[Linked List Insertions]
+[Linked List Insertions](linked_list-insertions.md)
