@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zoomify-341504",
+  "private_key_id": "0fc52cee4624f83e3d996ee83b40240e68971160",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMYtTnouRTlU3c\n47hYMhh37lI24zP+JOclxGRz7Uit/zo9seNPN96V6wRhG87K9xuaIqO/TXZMsq0e\nAFHoYWxiUwwpKUboI6J/Y/qH+Y0KZIBYYtUgtwziGwlMywPxrHGndK0aI11VtTFx\nSIs91uwZiSHGpkx4FJbMbz95kiD+mlThoOPIxjExxl7rwBRa1l/OF6K6x5aGmvF3\nJ5TGCRWcCH8Nb1iiNyn4vAV8MuJGzynuA1ZuDbMcz182bTELy3LXlbnYcOb/tTVn\n2JkfKMTmk9UuHn1MCrTFV6WeG8/z5SOuf6QnlU22ulknROhytCy2W1UMxb/L1swH\n3unxWkWZAgMBAAECggEAAqGgG5ZXibLxpG8jG7GTapHdKZs9u18mwa/4Why7M5BG\nY+5zHn055qS2svhcbnUFfDPHd2pMJFsliu4Wn98HOfHXRX1kTg9NY4X6Pv9pvzFB\njMHC/C+XIR8XfM9dTuJ5OR5xrxU2+ahCSXLVZherBP4kuu2/rMkZEus4vjwxJA37\nNr+Dnnq/G1gB0XkcFYB5N6x9bjun157XRc7DgF19ozq8vQY+2PlEfRVmt9WDX2Rj\nNJ3JxLYwckYd5hPd83VMVTpjyTXH1CnWTp7pdEKkAimCI6idjrGmLpKeRTYcp954\nTUahXFXkWm3IgAtCQ494pdooFqygFL4A0JO2dxM4fQKBgQDr4D1sdz0Ry2S1r9az\nv95nCiP9TlySe85BpfER1FdjhXYhbMHv98h7LS3SJkpR5fBFoOLiTth76zUdTNY5\nkNX2ZSb9wCgZCPsgIeoQfYc1vaIPVNem8jVOmMA12siTma/J2R+l78KRVRdzkGu/\ntrga5HsDW8JtFvCQ+YUUnlJGVQKBgQDd0tJ6R1YfwHV8Lx1RjYaBtY2Eln1ZXhrs\nJnWaMQhkunMf4XWyU8ZNmSW8ocQXpqa7VxC2HPH2gNk87FDLig2/CXY9ZFf2j77e\n5nGVPxIeH+m3ibTonPnFEsllCzFLYHdKSP5n90W+8FkdUSM/ske04Qe0Rjl6y+7I\n3+vV2ATeNQKBgQCgEjY89JJqEAiRT/o5U70fWf9geJxUAFbRsEZv3hVMAZdQSZk3\nO4U/KkLNOZT4DT5IUk2GXRGGzvDlqG489LBvHOggDhZoHvMlND6+4CEw9DcVhnMu\n5XINm5XdNlMl74cfSQy0NIhqzj8y+tBUczBvd5yPg+bm10l8aQjKHEMjXQKBgAhS\nr7kM0itw0jetoOD9eW2GfV/bMarXwBTaQJFfg5wb7tPkZsEhKZChzWuteikVBK6E\nzsi2f1Grdfs2NrXcYTWoyjn1eON0c0nzxZE/A5QDyIYtcY9EzI5bbRkQeXIFlZRA\n9uK5wXEvnXhfIf5y1wPvaZWXCPMVkckRtcyZRV19AoGAWtewMEYM2Y3y/HpMSlnO\nMG0Txez8ZpVQ5+c5trt+WtIHOyNM7+IP0JrCsRyWsNBwVmc9BM+UiZJHEyFICKmr\n56RFXRK/urMv56mAsYbp3P+Z+lBLisDNrR5kok4ltjZrl394ooMmRtNuareDL2Yu\nWtLmS5+sj+Uc/mcUqFroKLk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "zoomify@zoomify-341504.iam.gserviceaccount.com",
+  "client_id": "114219928455282690870",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zoomify%40zoomify-341504.iam.gserviceaccount.com"
+}
